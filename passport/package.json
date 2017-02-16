@@ -3,7 +3,10 @@
   "dependencies": {
     "egg": "*",
     "egg-passport": "*",
-    "egg-passport-weibo": "*"
+    "egg-passport-weibo": "*",
+    "egg-passport-twitter": "*",
+    "egg-passport-github": "*",
+    "egg-passport-bitbucket": "*"
   },
   "devDependencies": {
     "egg-bin": "1",
